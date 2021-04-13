@@ -1,0 +1,6 @@
+For this poject, I decided to teach myself about API's because I had never any experience with them before. 
+I created this project based off a combination of several different tutorials on youtube.
+
+This project was created using the application Flask, which implements a "get" and "put" method
+
+The project is automaticaly displays the information for the given video
